@@ -55,9 +55,6 @@
         <mxCell id="fHrEUg3HBpmiZrC_CLhK-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Class 类对象/堆&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="310" y="180" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fHrEUg3HBpmiZrC_CLhK-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;左&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="310" y="360" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="fHrEUg3HBpmiZrC_CLhK-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;private String name&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="1">
           <mxGeometry x="-65" y="430" width="155" height="30" as="geometry" />
         </mxCell>
@@ -78,6 +75,9 @@
         </mxCell>
         <mxCell id="fHrEUg3HBpmiZrC_CLhK-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;类加载器&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ClassLoader&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;体现反射&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;" vertex="1" parent="1">
           <mxGeometry x="150" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fHrEUg3HBpmiZrC_CLhK-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="185" width="210" height="165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
