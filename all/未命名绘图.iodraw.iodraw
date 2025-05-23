@@ -16,7 +16,7 @@
         <mxCell id="fHrEUg3HBpmiZrC_CLhK-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;左&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#182E3E;fillColor=#B1DDF0;align=left;" vertex="1" parent="1">
           <mxGeometry x="660" y="130" width="290" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="fHrEUg3HBpmiZrC_CLhK-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;InputStream&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;" vertex="1" parent="1">
+        <mxCell id="fHrEUg3HBpmiZrC_CLhK-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;代码区/编译区&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="-120" y="140" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
