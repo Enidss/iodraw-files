@@ -50,7 +50,7 @@
           <mxGeometry x="-90" y="330" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fHrEUg3HBpmiZrC_CLhK-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="175" width="180" height="130" as="geometry" />
+          <mxGeometry x="310" y="175" width="200" height="145" as="geometry" />
         </mxCell>
         <mxCell id="fHrEUg3HBpmiZrC_CLhK-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Class 类对象/堆&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="310" y="180" width="120" height="30" as="geometry" />
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="fHrEUg3HBpmiZrC_CLhK-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;成员变量 Field[] fields&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="220" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fHrEUg3HBpmiZrC_CLhK-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;成员变量 Field[] fields&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="280" width="155" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
