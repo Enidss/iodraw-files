@@ -7,8 +7,8 @@
         <mxCell id="3eNpv37twWwJChWCm_Q7-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;左&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#B1DDF0;strokeColor=#BAC8D3;labelBackgroundColor=none;fontColor=#182E3E;" parent="1" vertex="1">
           <mxGeometry x="140" y="40" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fHrEUg3HBpmiZrC_CLhK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#182E3E;fillColor=#B1DDF0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="130" width="120" height="50" as="geometry" />
+        <mxCell id="fHrEUg3HBpmiZrC_CLhK-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;左&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#182E3E;fillColor=#B1DDF0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
