@@ -28,7 +28,7 @@
         <mxCell id="w1kbHOyPUv8-rTWvXi6J-10" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;http://localhost:8080/person/person.html&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w1kbHOyPUv8-rTWvXi6J-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="w1kbHOyPUv8-rTWvXi6J-10" target="w1kbHOyPUv8-rTWvXi6J-5">
+        <mxCell id="w1kbHOyPUv8-rTWvXi6J-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;curved=1;" edge="1" parent="1" source="w1kbHOyPUv8-rTWvXi6J-10" target="w1kbHOyPUv8-rTWvXi6J-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
