@@ -41,6 +41,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="w1kbHOyPUv8-rTWvXi6J-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="w1kbHOyPUv8-rTWvXi6J-7" source="w1kbHOyPUv8-rTWvXi6J-20" target="w1kbHOyPUv8-rTWvXi6J-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w1kbHOyPUv8-rTWvXi6J-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;test.html&lt;/font&gt;&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="690" y="90" width="100" height="470" as="geometry" />
         </mxCell>
