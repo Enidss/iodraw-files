@@ -79,12 +79,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w1kbHOyPUv8-rTWvXi6J-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=2;" edge="1" parent="1" source="w1kbHOyPUv8-rTWvXi6J-20" target="w1kbHOyPUv8-rTWvXi6J-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="w1kbHOyPUv8-rTWvXi6J-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;4.找到资源返回&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w1kbHOyPUv8-rTWvXi6J-22">
-          <mxGeometry x="-0.1167" y="-1" relative="1" as="geometry">
-            <mxPoint y="59" as="offset" />
+        <mxCell id="w1kbHOyPUv8-rTWvXi6J-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=2;" edge="1" parent="1" source="w1kbHOyPUv8-rTWvXi6J-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w1kbHOyPUv8-rTWvXi6J-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="w1kbHOyPUv8-rTWvXi6J-20" target="w1kbHOyPUv8-rTWvXi6J-5">
