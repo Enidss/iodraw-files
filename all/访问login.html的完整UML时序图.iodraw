@@ -13,20 +13,30 @@
         <mxCell id="VgbgDpN0-_ue8qpxI8ta-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Servlet&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="600" y="100" width="100" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="VgbgDpN0-_ue8qpxI8ta-4" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1" source="VgbgDpN0-_ue8qpxI8ta-1" target="VgbgDpN0-_ue8qpxI8ta-2">
+        <mxCell id="VgbgDpN0-_ue8qpxI8ta-4" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1" source="VgbgDpN0-_ue8qpxI8ta-9" target="VgbgDpN0-_ue8qpxI8ta-2">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="120" y="200" as="sourcePoint" />
             <mxPoint x="280" y="200" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VgbgDpN0-_ue8qpxI8ta-7" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1" source="VgbgDpN0-_ue8qpxI8ta-1" target="VgbgDpN0-_ue8qpxI8ta-9">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="81" y="200" as="sourcePoint" />
+            <mxPoint x="359" y="201" as="targetPoint" />
             <Array as="points">
               <mxPoint x="205" y="200" />
               <mxPoint x="205" y="201" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VgbgDpN0-_ue8qpxI8ta-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;输入http://localhost:&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;8080/myWeb01/dog&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;发出http请求，&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;请求静态页面&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VgbgDpN0-_ue8qpxI8ta-4">
+        <mxCell id="VgbgDpN0-_ue8qpxI8ta-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;输入http://localhost:&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;8080/myWeb01/dog&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;发出http请求，&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;请求静态页面&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VgbgDpN0-_ue8qpxI8ta-7">
           <mxGeometry x="-0.3369" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VgbgDpN0-_ue8qpxI8ta-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="355" y="160" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
