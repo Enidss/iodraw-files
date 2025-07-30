@@ -13,10 +13,14 @@
         <mxCell id="VgbgDpN0-_ue8qpxI8ta-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Servlet&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="600" y="100" width="100" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="VgbgDpN0-_ue8qpxI8ta-4" value="name" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
+        <mxCell id="VgbgDpN0-_ue8qpxI8ta-4" value="name" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1" source="VgbgDpN0-_ue8qpxI8ta-1" target="VgbgDpN0-_ue8qpxI8ta-2">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="120" y="200" as="sourcePoint" />
             <mxPoint x="280" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="205" y="200" />
+              <mxPoint x="205" y="201" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VgbgDpN0-_ue8qpxI8ta-5" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="VgbgDpN0-_ue8qpxI8ta-4">
