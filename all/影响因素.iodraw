@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="QfcSC0IirQBR9GLRUY9m">
-    <mxGraphModel dx="1055" dy="604" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFCC" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="1773" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFCC" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,10 @@
           <mxGeometry x="110" y="80" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-Mq7HqV-R6-BOJf08Kga-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;20岁整&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;自我修复=&amp;gt;心理正常,智力正常&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;审美好&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;善良&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;运动健身爱好;喜欢美食，做菜(虽然没有时间，金钱研究)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;重点高中，双一流本科&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;向往学好英语&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;喜欢编程&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="1">
-          <mxGeometry x="445" y="31" width="368" height="211" as="geometry" />
+          <mxGeometry x="600" y="-86" width="368" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="-Mq7HqV-R6-BOJf08Kga-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;左&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;" vertex="1" parent="1">
+          <mxGeometry x="184" y="343" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
