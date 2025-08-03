@@ -101,7 +101,7 @@
         <mxCell id="6ak-4r4B0uY8XIOc4rFA-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;继承 Exception/ RuntimeException&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#B1DDF0;strokeColor=#BAC8D3;labelBackgroundColor=none;fontColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="60" y="447" width="128" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="6ak-4r4B0uY8XIOc4rFA-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6ak-4r4B0uY8XIOc4rFA-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="-498" y="362" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
