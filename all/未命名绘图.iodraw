@@ -662,6 +662,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ir28QuBZh63gCUBEPVMK-201" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;左&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;" vertex="1" parent="1">
+          <mxGeometry x="124" y="1470" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
