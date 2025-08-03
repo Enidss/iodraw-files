@@ -11,10 +11,10 @@
           <mxGeometry x="120" y="241" width="43" height="27" as="geometry" />
         </mxCell>
         <mxCell id="6ak-4r4B0uY8XIOc4rFA-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;编译异常&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FAD9D5;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="210" y="162" width="69" height="35" as="geometry" />
+          <mxGeometry x="205" y="275" width="69" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6ak-4r4B0uY8XIOc4rFA-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;运行异常&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FAD9D5;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="206" y="262" width="67" height="39" as="geometry" />
+          <mxGeometry x="205" y="389" width="67" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
