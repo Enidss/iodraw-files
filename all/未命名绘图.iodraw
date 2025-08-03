@@ -8,13 +8,19 @@
           <mxGeometry x="304" y="76" width="206" height="46" as="geometry" />
         </mxCell>
         <mxCell id="6ak-4r4B0uY8XIOc4rFA-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;异常&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FAD9D5;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="120" y="241" width="43" height="27" as="geometry" />
+          <mxGeometry x="113" y="337" width="43" height="27" as="geometry" />
         </mxCell>
         <mxCell id="6ak-4r4B0uY8XIOc4rFA-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;编译异常&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FAD9D5;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="205" y="275" width="69" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6ak-4r4B0uY8XIOc4rFA-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;运行异常&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FAD9D5;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="205" y="389" width="67" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="6ak-4r4B0uY8XIOc4rFA-5" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="6ak-4r4B0uY8XIOc4rFA-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="144" y="321" as="sourcePoint" />
+            <mxPoint x="194" y="271" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
