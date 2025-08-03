@@ -665,8 +665,8 @@
         <mxCell id="ir28QuBZh63gCUBEPVMK-201" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;循环数组模拟队列，要有一个假定的方向，假设顺时钟方向&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="124" y="1470" width="166" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ir28QuBZh63gCUBEPVMK-202" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;注意：&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-125" y="1380" width="60" height="30" as="geometry" />
+        <mxCell id="ir28QuBZh63gCUBEPVMK-202" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;front&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
